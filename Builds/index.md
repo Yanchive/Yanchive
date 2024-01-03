@@ -1,67 +1,44 @@
 ## Builds
 Here you can find nearly all of Yandere Simulator's publicly available builds.
 
-<details>
-<summary>2014</summary>
-
+### 2014
 - [October 1 (Yandere Simulator Benchmarking Test)](https://github.com/Yanchive/Yanchive/releases/download/Yanchive/Yandere.Simulator.Benchmarking.Test.1st.Oct.2014.zip)
 - [November 13](https://github.com/Yanchive/Yanchive/releases/download/Yanchive/ys_2014_11_13.zip)
 - [November 14](https://github.com/Yanchive/Yanchive/releases/download/Yanchive/ys_2014_11_14.zip)
 - [December 1](https://github.com/Yanchive/Yanchive/releases/download/Yanchive/ys_2014_12_01.zip)
 - [December 13](https://github.com/Yanchive/Yanchive/releases/download/Yanchive/ys_2014_12_13.zip)
 
-</details>
-<details>
-<summary>2015</summary>
-
+### 2015
 TBD.
 
-</details>
-<details>
-<summary>2016</summary>
-
+### 2016
 TBD.
 
-</details>
-<details>
-<summary>2017</summary>
 
+### 2017
 TBD.
 
-</details>
-<details>
-<summary>2018</summary>
 
+### 2018
 TBD.
 
-</details>
-<details>
-<summary>2019</summary>
 
+### 2019
 TBD.
 
-</details>
-<details>
-<summary>2020</summary>
 
+### 2020
 TBD.
 
-</details>
-<details>
-<summary>2021</summary>
 
+### 2021
 TBD.
 
-</details>
-<details>
-<summary>2022</summary>
 
+### 2022
 TBD.
 
-</details>
-<details>
-<summary>2023</summary>
 
+### 2023
 TBD.
 
-</details>
