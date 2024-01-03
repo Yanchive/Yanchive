@@ -13,4 +13,4 @@ Welcome to Yanchive, the unofficial Yandere Simulator build archive hosting near
 TBD.
 
 ## Contact
-Notice a build that's missing? Contact me at yanchive.yudgu@slmail.me. (Please do not contact about missing builds from a build year that hasn't been added to the list yet.)
+Notice a build that's missing? Contact me at [yanchive.yudgu@slmail.me](mailto:yanchive.yudgu@slmail.me). (Please do not contact about missing builds from a build year that hasn't been added to the list yet.)
