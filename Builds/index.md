@@ -24,8 +24,24 @@ Here you can find nearly all of Yandere Simulator's publicly available builds.
 - [May 24](https://github.com/Yanchive/Yanchive/releases/download/Yanchive/ys_2015_05_24.zip)
 - [May 25 (version 2)](https://github.com/Yanchive/Yanchive/releases/download/Yanchive/ys_2015_05_25v2.zip)
 - [June 19](https://github.com/Yanchive/Yanchive/releases/download/Yanchive/ys_2015_06_19.zip)
-
-TBD.
+- [July 1](https://github.com/Yanchive/Yanchive/releases/download/Yanchive/ys_2015_07_01.rar)
+- [July 4](https://github.com/Yanchive/Yanchive/releases/download/Yanchive/ys_2015_07_04.zip)
+- [July 7](https://github.com/Yanchive/Yanchive/releases/download/Yanchive/ys_2015_07_07.zip)
+- [August 26](https://github.com/Yanchive/Yanchive/releases/download/Yanchive/ys_2015_08_26.zip)
+- [September 1 (version 2)](https://github.com/Yanchive/Yanchive/releases/download/Yanchive/ys_2015_09_01v2.zip)
+- [September 20](https://github.com/Yanchive/Yanchive/releases/download/Yanchive/ys_2015_09_20.zip)
+- [October 8](https://github.com/Yanchive/Yanchive/releases/download/Yanchive/ys_2015_10_08.zip)
+- [October 9](https://github.com/Yanchive/Yanchive/releases/download/Yanchive/ys_2015_10_09.zip)
+- [October 11](https://github.com/Yanchive/Yanchive/releases/download/Yanchive/ys_2015_10_11.zip)
+- [October 17](https://github.com/Yanchive/Yanchive/releases/download/Yanchive/ys_2015_10_17.zip)
+- [October 18](https://github.com/Yanchive/Yanchive/releases/download/Yanchive/ys_2015_10_18.zip)
+- [October 31](https://github.com/Yanchive/Yanchive/releases/download/Yanchive/ys_2015_10_31.zip)
+- [November 1](https://github.com/Yanchive/Yanchive/releases/download/Yanchive/ys_2015_11_01.zip)
+- [November 15](https://github.com/Yanchive/Yanchive/releases/download/Yanchive/ys_2015_11_15.zip)
+- [November 16](https://github.com/Yanchive/Yanchive/releases/download/Yanchive/ys_2015_11_16.zip)
+- [December 1](https://github.com/Yanchive/Yanchive/releases/download/Yanchive/ys_2015_12_01.zip)
+- [December 2](https://github.com/Yanchive/Yanchive/releases/download/Yanchive/ys_2015_12_02.zip)
+- [December 3](https://github.com/Yanchive/Yanchive/releases/download/Yanchive/ys_2015_12_03.zip)
 
 ### 2016
 TBD.
