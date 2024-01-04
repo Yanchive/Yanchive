@@ -7,4 +7,4 @@ Welcome to Yanchive, the unofficial Yandere Simulator development archive hostin
 **[Development Blog Posts](./BlogPosts)**
 
 ## Contact
-Notice something that's missing? Contact me at [yanchive.yudgu@slmail.me](mailto:yanchive.yudgu@slmail.me)!
+Notice something that's missing or broken? [Create an issue on GitHub](https://github.com/Yanchive/Yanchive/issues/new/choose) or contact me at [yanchive.yudgu@slmail.me](mailto:yanchive.yudgu@slmail.me)!
