@@ -74,3 +74,8 @@ TBD.
 ### 2023
 TBD.
 
+### 2024
+TBD.
+
+## Help Needed!
+Most of the builds are provided by the [YandereSim Archives](https://1drv.ms/f/s!AuUjiSyKwmqahC3-JBrck1Ahx46h) on OneDrive, however this drive does not have the builds from July 2023 to now. If you know of a source that has these builds or have one or more of these builds in your possesion, please contact me at [yanchive.yudgu@slmail.me](mailto:yanchive.yudgu@slmail.me).
