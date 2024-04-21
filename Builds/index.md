@@ -11,7 +11,8 @@ Here you can find nearly all of Yandere Simulator's publicly available builds.
 ### 2015
 - [January 15](https://github.com/Yanchive/Yanchive/releases/download/Yanchive/ys_2015_01_15.zip)
 - [February 1](https://github.com/Yanchive/Yanchive/releases/download/Yanchive/ys_2015_02_01.zip)
-- [March 3 (version 2)](https://github.com/Yanchive/Yanchive/releases/download/Yanchive/ys_2015_02_15.zip)
+- [February 15](https://github.com/Yanchive/Yanchive/releases/download/Yanchive/ys_2015_02_15.zip)
+- [March 3 (version 2)](https://github.com/Yanchive/Yanchive/releases/download/Yanchive/ys_2015_03_03v2.zip)
 - [March 15](https://github.com/Yanchive/Yanchive/releases/download/Yanchive/ys_2015_03_15.zip)
 - [March 19](https://github.com/Yanchive/Yanchive/releases/download/Yanchive/ys_2015_03_19.zip)
 - [April 3](https://github.com/Yanchive/Yanchive/releases/download/Yanchive/ys_2015_04_03.zip)
