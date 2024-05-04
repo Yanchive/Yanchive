@@ -1,3 +1,0 @@
-## Development Blog Posts
-
-TBD.
